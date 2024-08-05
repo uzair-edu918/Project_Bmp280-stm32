@@ -1,0 +1,9 @@
+../Core/Src/bmp280_i2c.c:26:19:bmp280_initilize	24	static
+../Core/Src/bmp280_i2c.c:87:19:bmp280_read_register	40	static
+../Core/Src/bmp280_i2c.c:94:19:bmp280_read_registers	40	static
+../Core/Src/bmp280_i2c.c:100:19:bmp280_write_register	40	static
+../Core/Src/bmp280_i2c.c:109:6:BMP280_ReadCalibrationData	40	static
+../Core/Src/bmp280_i2c.c:135:10:BMP280_ReadRawTemperature	16	static
+../Core/Src/bmp280_i2c.c:149:10:BMP280_ReadRawPressure	24	static
+../Core/Src/bmp280_i2c.c:161:7:BMP280_CompensateTemperature	32	static
+../Core/Src/bmp280_i2c.c:177:7:BMP280_CompensatePressure	280	static
